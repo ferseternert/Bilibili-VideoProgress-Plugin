@@ -1,0 +1,14 @@
+{
+  "name": "bilibili-videoprogress-plugin",
+  "version": "0.1.0",
+  "private": true,
+  "description": "B站客户端视频进度插件",
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": "github:ferseternert/Bilibili-VideoProgress-Plugin",
+  "license": "MIT"
+}

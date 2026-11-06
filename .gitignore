@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.exe
+*.zip
+*.tmp
+*.error.txt
+*.log
+SHA256SUMS.txt
